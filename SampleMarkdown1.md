@@ -1,4 +1,4 @@
-# NewMarkdown1 EDITED
+# NewMarkdown1
 ## h2 Heading
 ### h3 Heading
 #### h4 Heading
